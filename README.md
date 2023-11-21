@@ -14,6 +14,12 @@ $ echo "source $(pwd)/commands.sh" >> ~/.zshrc
 $ make generate
 ```
 
+### Operation Verification
+
+```zsh
+$ make # Select a command to verify its operation
+```
+
 ### Use Environment Variables
 
 **`.zshrc`**
