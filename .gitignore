@@ -1,0 +1,13 @@
+# Node
+node_modules/
+bin/
+dist/
+src/commands/*.js
+
+# Python
+.ruff_cache
+
+.env
+Icon?
+
+commands.sh
